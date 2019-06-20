@@ -3,8 +3,8 @@ html {
 }
 
 body {
-	background: url("https://icdn2.digitaltrends.com/image/avengers-endgame.jpg)");
-	background-size: cover;	
+	background-image: url("https://icdn2.digitaltrends.com/image/avengers-endgame.JPG)");
+	background-repeat: no-repeat;
 	background-position: center;
 	font-family: lato;
 	color: white;
